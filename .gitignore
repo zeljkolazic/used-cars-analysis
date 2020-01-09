@@ -1,7 +1,3 @@
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-__pycache__
-*/__pycache__/*
 plotly_factory.py
 helper_functions.py
 used_cars_market.html
