@@ -1,1 +1,3 @@
 # Exploratory data analysis of Serbian and German used car market
+
+The number of used car transactions in the US and EU is several times as large as new-car transactions. The secondary car market in Germany is amongst the most dynamic in the EU. The aim of this analysis is to get insights into how the German used car market is influencing the Serbian market. We used a stratified random sampling method for the data collected from websites on both markets. The Following methods and techniques were used in this analysis: data collection, data cleaning, exploratory data analysis, data visualizations, and hypothesis testing. 
